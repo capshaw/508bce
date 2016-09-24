@@ -1,0 +1,39 @@
+<html>
+<head>
+  <title>508 BCE</title>
+  <style>
+    body {
+      background: #444;
+    }
+
+    .logo {
+      background: url(logo.png);
+      background-size: contain;
+      height: 100px;
+      width: 100px;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin-left: -50px;
+      margin-top: -50px;
+    }
+  </style>
+  <script>
+
+  </script>
+</head>
+<body>
+  <!-- This is a hack, don't take it too seriously. -->
+  <div class='logo'></div>
+  <script>
+    // Source https://gist.github.com/maxogden/844879
+    var sick_neon_colors = ["#CB3301", "#FF0066", "#FF6666", "#FEFF99", "#FFFF67", "#CCFF66", "#99FE00", "#EC8EED", "#FF99CB", "#FE349A", "#CC99FE", "#6599FF", "#03CDFF"];
+
+    function randomColor(colors) {
+      return colors[Math.floor(Math.random()*colors.length)];
+    };
+
+    document.body.style.backgroundColor = randomColor(sick_neon_colors);
+  </script>
+</body>
+</html>
