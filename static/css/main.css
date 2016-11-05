@@ -13,14 +13,6 @@ a {
   font-weight: bold;
 }
 
-.logo {
-  width: 100px;
-  height: 100px;
-  background: url(/logo.png);
-  background-size: contain;
-  margin: auto;
-}
-
 .container {
   max-width: 380px;
   margin: auto;
