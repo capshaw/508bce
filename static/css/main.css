@@ -24,8 +24,7 @@ a.nice-link {
 
 .container {
   max-width: 380px;
-  margin: auto;
-  margin-top: 40px;
+  margin: 40px auto;
   padding: 0 10px;
 }
 
