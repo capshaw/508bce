@@ -6,3 +6,4 @@ complacency
 complexity / simplicity
 meta - why this?
 consumerism
+creative destruction / jobs / art
