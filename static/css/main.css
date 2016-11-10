@@ -28,6 +28,10 @@ a.nice-link {
   padding: 0 10px;
 }
 
+.container img {
+  max-width: 100%;
+}
+
 .float-right {
   float: right;
 }
