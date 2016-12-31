@@ -13,4 +13,4 @@ the great filter
 what I want versus what other wants
 the eyes as a filter
 herd mentality
-2017 goals
+large organizations / world hard for us to understand

@@ -14,6 +14,15 @@ a {
   text-decoration: none;
 }
 
+li {
+  margin-left: -20px;
+}
+
+strong {
+    background: yellow;
+    padding: 2px;
+}
+
 a.nice-link {
   border: 1px solid #21A66F;
   border-radius: 4px;
