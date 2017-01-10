@@ -51,9 +51,7 @@ a.nice-link {
   padding: 20px 0;
 }
 
-.logo {
-    background: url(/salon_logo_0.5.png) no-repeat center center;
-    width: 100%;
-    height: 100px;
-    background-size: contain;
+::selection {
+  background: #19dfb5;
+  color: #296357;
 }
