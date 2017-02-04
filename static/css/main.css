@@ -1,8 +1,11 @@
+
 body, html {
   font-family: Georgia, "Times New Roman", serif;
   font-size: 105%;
   line-height: 1.6;
   color: #3e3d5a;
+  margin: 0;
+  padding: 0;
 }
 
 h1 {
@@ -19,6 +22,10 @@ li {
   margin-left: -20px;
 }
 
+small {
+    font-size: small
+}
+
 a.nice-link {
   border: 1px solid #333;
   border-radius: 4px;
@@ -26,6 +33,18 @@ a.nice-link {
   display: block;
   text-align: center;
   margin-top: 20px;
+}
+
+.header {
+    border-bottom: 1px solid #eee;
+    text-align: center;
+    padding: 10px 0;
+    background: #fafafa;
+}
+
+.header a {
+    text-decoration: none;
+    border-bottom: none;
 }
 
 .container {
@@ -52,6 +71,6 @@ a.nice-link {
 }
 
 ::selection {
-  background: #19dfb5;
-  color: #296357;
+  background: #eee;
+  color: #111;
 }
