@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="450px" height="167px" viewBox="0 0 450 167" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>money</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="96.9980469%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#40987E" offset="0%"></stop>
+            <stop stop-color="#2F928D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="451" height="167"></rect>
+        <polygon id="Path-2" stroke="#1A5548" stroke-width="4" fill="#357F70" points="47.8276978 103.083908 116.495087 111.269531 190.812744 83.4519958 247.847656 98.0637283 312.783783 103.083908 357.606476 70.8912239 405.686401 75.691185 450.835907 55.7213593 488.379761 27.744215 517.812805 38.4563475 544.523068 11 546.695312 192.980469 31.3828125 211.539062 -51 203.398438 -32.59375 149.976562"></polygon>
+    </g>
+</svg>

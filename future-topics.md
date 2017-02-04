@@ -7,12 +7,19 @@
 - meta - why this?
 - consumerism
 - creative destruction / jobs / art
+    - robots jobs / utopia / dystopia
 - sparse future versus dense future
 - global warming
-- the great filter
+- the great filter (Done! see 09.md)
 - what I want versus what other wants
 - the eyes as a filter
 - herd mentality
 - large organizations / world hard for us to understand
 - collective conciousness via connected internet
 - freedom versus consistency
+- post idea: taking advantage of people's lack of time: salesmen, government
+- out of site, out of mind: trash, climate change, etc.
+- silence is golden (sounds and music and open offices)
+- large societies inevitably collapse due to the uncanny ability of people to take advantage of each other. global problems like global warming can't be solved
+    - The story of the moment: rotten apples and angels
+- marketing / coolness factor / tribes / cyclical fashion
