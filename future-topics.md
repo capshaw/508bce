@@ -22,7 +22,11 @@
 - silence is golden (sounds and music and open offices)
 - large societies inevitably collapse due to the uncanny ability of people to take advantage of each other. global problems like global warming can't be solved
     - The story of the moment: rotten apples and angels
-- marketing / coolness factor / tribes / cyclical fashion
+- marketing / coolness factor / tribes / cyclical fashion=
 - people love hierarchy
 - manufactured uniqueness (hipsters)
 - solidification and dark spaces: large companies, globalization; cells and surface area; why are mammals not larger?
+- caffeine: the socially acceptable drug
+- why do we stop learning? the knowledge gauntlet
+- code that is written is assumed to be right and holy; things on internet have more authority than they should
+- time self control and interruptions
