@@ -8,9 +8,6 @@ layout: page
 {% for page in site.pages reversed %}
   {% if page.in_navigation %}
     <div class="post-row">
-      <div class="float-right word-count">
-        {{page.content | number_of_words}} words
-      </div>
       <a href="{{ page.url }}">{{ page.title }}</a>
     </div>
   {% endif %}
