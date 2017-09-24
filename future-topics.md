@@ -30,3 +30,4 @@
 - why do we stop learning? the knowledge gauntlet
 - code that is written is assumed to be right and holy; things on internet have more authority than they should
 - time self control and interruptions
+- human timeline vs long problems
