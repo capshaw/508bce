@@ -5,13 +5,12 @@ layout: page
 
 <small>ESSAYS</small>
 
+{% assign count = 0 %}
 {% for page in site.pages reversed %}
-  {% if page.in_navigation %}
+  {% if page.in_navigation and count < 6 %}
     <div class="post-row">
-      <div class="float-right word-count">
-        {{page.content | number_of_words}} words
-      </div>
       <a href="{{ page.url }}">{{ page.title }}</a>
     </div>
+    {% assign count = count | plus: 1 %}
   {% endif %}
 {% endfor %}
