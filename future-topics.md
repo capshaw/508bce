@@ -31,3 +31,5 @@
 - code that is written is assumed to be right and holy; things on internet have more authority than they should
 - time self control and interruptions
 - easy entertainment and complacency (screens)
+- human timeline vs long problems
+- human flaws amplified through technology
