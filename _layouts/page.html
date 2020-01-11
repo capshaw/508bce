@@ -18,5 +18,13 @@
   {{ content }}
 </div>
 
+<script>
+  // Dark mode
+  var currentHour = (new Date()).getHours();
+  if (currentHour > 17 || currentHour < 8) {
+    document.body.classList.add('darkmode');
+  }
+</script>
+
 </body>
 </html>
