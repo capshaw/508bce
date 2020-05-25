@@ -1,7 +1,7 @@
 body {
   font-family: Georgia, "Times New Roman", serif;
   font-size: 105%;
-  line-height: 1.6;
+  line-height: 1.7em;
   color: #456;
   background: #fff;
   margin: 0;
@@ -23,12 +23,25 @@ a {
   .darkmode a {
     color: #fff;
     border-bottom: 1px solid #eee; }
+  a:focus, a:active {
+    background: #fff06c;
+    outline: 2px solid #fff06c;
+    color: #333;
+    border-bottom: 1px solid #333; }
 
 li {
   margin-left: -20px; }
 
 small {
   font-size: small; }
+
+sup, sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em; }
+
+sub {
+  top: 0.4em; }
 
 a.nice-link {
   border: 1px solid #333;
@@ -42,49 +55,52 @@ a.nice-link {
 
 .header {
   text-align: center;
-  padding: 20px 0; }
-
-.header a {
-  text-decoration: none;
-  border-bottom: none; }
+  padding: 20px 0;
+  border-bottom: 1px solid #eee; }
+  .darkmode .header {
+    border-bottom: 1px solid #000; }
+  .header a {
+    text-decoration: none;
+    border-bottom: none; }
 
 .container {
   max-width: 450px;
   margin: 40px auto;
   padding: 0 10px; }
 
-.container img {
-  max-width: 100%; }
-
 .float-right {
   float: right; }
 
 .post-row {
-  padding: 20px 0; }
+  padding: 20px 0;
+  text-align: center; }
 
-.post-row:nth-child(5) a {
+.post-row:nth-child(4) a {
   color: #766;
   border-bottom: 1px solid #766; }
-  .darkmode .post-row:nth-child(5) a {
+  .darkmode .post-row:nth-child(4) a {
     color: #999;
     border-bottom: 1px solid #999; }
 
-.post-row:nth-child(6) a {
+.post-row:nth-child(5) a {
   color: #9c9999;
   border-bottom: 1px solid #9c9999; }
-  .darkmode .post-row:nth-child(6) a {
+  .darkmode .post-row:nth-child(5) a {
     color: #555;
     border-bottom: 1px solid #555; }
 
-.post-row:nth-child(7) a {
+.post-row:nth-child(6) a {
   color: #dcc;
   border-bottom: 0px dotted #dcc; }
-  .darkmode .post-row:nth-child(7) a {
+  .darkmode .post-row:nth-child(6) a {
     color: #444;
     border-bottom: 1px solid #444; }
 
 ::selection {
-  background: #eee;
+  background: #fff06c;
   color: #111; }
+
+.clearfix {
+  clear: both; }
 
 /*# sourceMappingURL=main.css.map */

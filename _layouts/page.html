@@ -21,7 +21,7 @@
 <script>
   // Dark mode
   var currentHour = (new Date()).getHours();
-  if (currentHour > 17 || currentHour < 8) {
+  if (currentHour > 17 || currentHour < 8 || window.location.href.includes('darkmode')) {
     document.body.classList.add('darkmode');
   }
 </script>
